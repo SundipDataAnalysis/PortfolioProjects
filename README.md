@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Covid Portfolio Project
 
 ## An analysis of the COVID cases globally. Looking at the percentage of the population infected per country and the deaths per continent from 2019 to 2023. Using Tableau, added a forecast analysis to predict the average percentage of population infected for the following 2 years in 5 countries, United Kingdom, United States, China, Brazil and India. Dataset has been taken from https://ourworldindata.org/covid-deaths 
 
