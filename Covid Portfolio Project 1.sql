@@ -22,7 +22,7 @@ where location like '%states%'
 and continent is not null
 order by 1,2
 
--- asses total cases vs population
+-- assess total cases vs population
 -- percentage of population contracting Covid
 
 select Location, date, total_cases, population, (total_cases/population)*100 AS PercentPopulationInfected
